@@ -1,0 +1,10 @@
+{
+  "name": "dayone",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "vite": "^3.1.7"
+  }
+}
